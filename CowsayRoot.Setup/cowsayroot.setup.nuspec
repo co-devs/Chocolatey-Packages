@@ -8,7 +8,7 @@
     <owners>Mike Devens</owners>
     <summary>CowsayRoot.Setup - Utilities Suite</summary>
     <description>This set includes a number of programs installed as part of configuring a new Windows machine.  Shamelessly based off of Jivko olev's package at https://github.com/jivkok/Chocolatey-Packages.</description>
-    <projectUrl>empty</projectUrl>
+    <projectUrl>https://github.com/co-devs/Chocolatey-Packages/tree/master/CowsayRoot.Setup</projectUrl>
     <tags>cowsayroot setup tools utilities</tags>
     <dependencies>
       <dependency id='7zip.install' />
