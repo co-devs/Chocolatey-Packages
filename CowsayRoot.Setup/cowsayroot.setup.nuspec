@@ -3,11 +3,11 @@
   <metadata>
     <id>cowsayroot.setup</id>
     <title>CowsayRoot.Setup</title>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <authors>Mike Devens</authors>
     <owners>Mike Devens</owners>
     <summary>CowsayRoot.Setup - Utilities Suite</summary>
-    <description>This set includes a number of programs installed as part of configuring a new Windows machine.  Shamelessly based off of Jivko olev's package at https://github.com/jivkok/Chocolatey-Packages.</description>
+    <description>This set includes a number of programs installed as part of configuring a new Windows machine.  Shamelessly based off of Jivko Kolev's package at https://github.com/jivkok/Chocolatey-Packages.</description>
     <projectUrl>https://github.com/co-devs/Chocolatey-Packages/tree/master/CowsayRoot.Setup</projectUrl>
     <tags>cowsayroot setup tools utilities</tags>
     <dependencies>
@@ -50,8 +50,6 @@
       <dependency id='greenshot' />
       <dependency id='httrack' />
       <dependency id='NimbleText' />
-      <dependency id='PeStudio' />
-      <dependency id='PomoTime' />
       <dependency id='ResophNotes' />
     </dependencies>
   </metadata>
