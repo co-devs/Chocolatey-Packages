@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>cowsayroot.setup</id>
+    <title>CowsayRoot.Setup</title>
+    <version>1.0</version>
+    <authors>Mike Devens</authors>
+    <owners>Mike Devens</owners>
+    <summary>CowsayRoot.Setup - Utilities Suite</summary>
+    <description>This set includes a number of programs installed as part of configuring a new Windows machine.  Shamelessly based off of Jivko olev's package at https://github.com/jivkok/Chocolatey-Packages.</description>
+    <projectUrl>empty</projectUrl>
+    <tags>cowsayroot setup tools utilities</tags>
+    <dependencies>
+      <dependency id='7zip.install' />
+      <dependency id='bitwarden' />
+      <dependency id='bleachbit' />
+      <dependency id='chocolatey-core.extension' />
+      <dependency id='chocolatey-windowsupdate.extension' />
+      <dependency id='ChocolateyGUI' />
+      <dependency id='discord.install' />
+      <dependency id='eraser' />
+      <dependency id='filezilla' />
+      <dependency id='Firefox' />
+      <dependency id='gimp' />
+      <dependency id='git.install' />
+      <dependency id='github-desktop' />
+      <dependency id='GoogleChrome' />
+      <dependency id='googleearthpro' />
+      <dependency id='Gpg4win' />
+      <dependency id='HxD' />
+      <dependency id='keepass.install' />
+      <dependency id='libreoffice-fresh' />
+      <dependency id='nmap' />
+      <dependency id='notepadplusplus.install' />
+      <dependency id='putty.install' />
+      <dependency id='python2' />
+      <dependency id='python3' />
+      <dependency id='rdcman' />
+      <dependency id='SublimeText3' />
+      <dependency id='sysinternals' />
+      <dependency id='thunderbird' />
+      <dependency id='virtualbox' />
+      <dependency id='vlc' />
+      <dependency id='windirstat' />
+      <dependency id='wireshark' />
+      <!-- Interesting -->
+      <dependency id='CloseTheDoor' />
+      <dependency id='CrystalDiskInfo' />
+      <dependency id='freemind' />
+      <dependency id='greenshot' />
+      <dependency id='httrack' />
+      <dependency id='NimbleText' />
+      <dependency id='PeStudio' />
+      <dependency id='PomoTime' />
+      <dependency id='ResophNotes' />
+    </dependencies>
+  </metadata>
+</package>
